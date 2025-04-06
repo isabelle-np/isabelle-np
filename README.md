@@ -1,5 +1,4 @@
 - 👩🏻‍💻 Hi, I’m @isabelle-np
 - 👀 I’m interested in accessibility, design systems
-- 🌱 I’m currently learning data structures in java
-- 💞️ I’m looking to collaborate on open source projects as a beginner
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/isabellenguyenphuoc/
